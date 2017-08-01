@@ -1,1 +1,1 @@
-# simple_guestbook
+# simple_blog
