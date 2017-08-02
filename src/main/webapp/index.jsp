@@ -1,5 +1,3 @@
-<html>
-<body>
-<h2>Hello World2!</h2>
-</body>
-</html>
+<%
+request.getRequestDispatcher("/WEB-INF/jsp/login.jsp").forward(request,response);
+%>
